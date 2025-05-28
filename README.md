@@ -1,4 +1,12 @@
+
+
+
 # Euromillions AI Prediction Toolkit
+![GitHub repo size](https://img.shields.io/github/repo-size/WumauCoding/euromillions-ai-predictor?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/WumauCoding/euromillions-ai-predictor?color=brightgreen)
+![Python version](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/github/license/WumauCoding/euromillions-ai-predictor)
+![Stars](https://img.shields.io/github/stars/WumauCoding/euromillions-ai-predictor?style=social)
 
 Ce projet open-source propose un ensemble de scripts pour :
 
